@@ -8,7 +8,7 @@ Hello World !
 
 Can I code here?
 
-{% highlight python lineos %}
+{% highlight python linenos %}
 a = 10
 for j in range(10):
     print("Hello\n")
