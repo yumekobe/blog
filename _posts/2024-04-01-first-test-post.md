@@ -8,9 +8,9 @@ Hello World !
 
 Can I code here?
 
-'''c
+{% highlight c %}
 int a = 10;
-'''
+{% endhighlight %}
 
 Can this render a latex equation?
 
