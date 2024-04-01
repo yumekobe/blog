@@ -12,6 +12,14 @@ Can I code here?
 int a = 10;
 {% endhighlight %}
 
+```python
+def test:
+    a = 10
+    for i in range(5):
+        print(a)
+    return 
+```
+
 Can this render a latex equation?
 
 $$
