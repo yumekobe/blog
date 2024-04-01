@@ -8,10 +8,6 @@ Hello World !
 
 Can I code here?
 
-{% highlight c %}
-int a = 10;
-{% endhighlight %}
-
 ```python
 def test:
     a = 10
