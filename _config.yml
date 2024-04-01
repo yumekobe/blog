@@ -74,3 +74,10 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  syntax_highlighter_opts:   # Rouge Options › https\://github.com/jneen/rouge#full-options
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
